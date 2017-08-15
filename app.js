@@ -24,7 +24,8 @@ function generateRandom() {
    var customerTwo = Math.floor(Math.random() * (firstPike.max - firstPike.min) + firstPike.min);
    firstPikeArray.push(j + 'pm: ' + Math.round(customerTwo * firstPike.average) + ' cookies');
  }
- generateRandom(firstPike, firstPikeArray);
+ var sumOfBoth = customerOne + customerTwo;
+ generateRandom(sumOfBoth, firstPikeArray);
  return[firstPikeArray];
 
 }
