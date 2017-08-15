@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(112, 112, 112);
+
+}
+h1 {
+  background-color: rgba(250, 128, 114, .5);
+  text-align: center;
+  padding: 3% 3%;
+  font-size:  300%;
+  font-family: 'Sigmar One', cursive;
+
+}
+img {
+  margin-left:  20%;
+}
+h2 {
+  text-align: center;
+}
+p {
+  background-color: rgba(250, 128, 114, .5);
+}
+img {
+  width: 10%;
+  height: 10%;
+}
