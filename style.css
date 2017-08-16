@@ -3,23 +3,23 @@ body {
 
 }
 h1 {
-  background-color: rgba(250, 128, 114, .5);
+  background-color: rgba(250, 128, 114, .4);
   text-align: center;
   padding: 3% 3%;
-  font-size:  300%;
+  font-size:  500%;
   font-family: 'Sigmar One', cursive;
 
 }
-img {
+#salmon-pic {
   margin-left:  20%;
 }
 h2 {
   text-align: center;
 }
 p {
-  background-color: rgba(250, 128, 114, .5);
+  background-color: rgba(250, 128, 114, .4);
 }
-img {
+#cookie-pic {
   width: 10%;
   height: 10%;
 }
