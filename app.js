@@ -25,7 +25,9 @@
    this.eachHourSales();
   }
 
+
   var firstAndPikeFirst = new Store('Pike and First', 23, 65, 6.3);
+  var pikeFirst = new Store('Pike and First', 23, 65, 6.3);
   var seaTac = new Store('SeaTac', 3, 24, 1.2);
   var seattleCenter = new Store('Seattle Center', 11, 38, 3.7);
   var capitolHill = new Store('Capitol Hill', 20, 38, 2.3);
